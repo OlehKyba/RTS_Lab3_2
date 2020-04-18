@@ -1,0 +1,17 @@
+{
+  "name": "rtsLab32",
+  "displayName": "rtsLab32",
+  "expo": {
+    "name": "rtsLab32",
+    "slug": "rtsLab32",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
